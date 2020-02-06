@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "644643",
+      "name": "icon_back",
+      "font_class": "iconback",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "2279064",
+      "name": "icon_news",
+      "font_class": "news",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "6654507",
+      "name": "card-hero",
+      "font_class": "card-hero",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "8775539",
+      "name": "省略号",
+      "font_class": "shenglvehao",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "9924536",
+      "name": "menu1",
+      "font_class": "menu",
+      "unicode": "e9f4",
+      "unicode_decimal": 59892
+    }
+  ]
+}
